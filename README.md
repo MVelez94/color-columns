@@ -1,5 +1,8 @@
 ## Introduction
 
+Just do the `npm install` and `npm start` dance to see in action.
+
+## Text below is the main task content
 As part of this challenge you will be creating a game.
 
 This is the game:

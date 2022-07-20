@@ -1,0 +1,7 @@
+div.winner-message {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10px;
+    transition-property: all;
+    transition-duration: 100ms;
+}
